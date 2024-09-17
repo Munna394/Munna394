@@ -15,6 +15,7 @@
   <li>Wordpress Theme Customize</li>
   <li>Elementor Basic</li>
   <li>Photoshop</li>
+  <li>PHP</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
