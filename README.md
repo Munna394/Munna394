@@ -6,7 +6,7 @@
 - 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **bangla.tkg@gmail.com**
-<h2>Skill & Experience</h2>
+<h2>🔰Skill & Experience🔰</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
