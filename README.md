@@ -6,7 +6,16 @@
 - 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **bangla.tkg@gmail.com**
-
+<h2>Skill & Experience</h2>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Bootstrap</li>
+  <li>Wordpress</li>
+  <li>Wordpress Theme Customize</li>
+  <li>Elementor Basic</li>
+  <li>Photoshop</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/md. aabir hossain munna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. aabir hossain munna" height="30" width="40" /></a>
