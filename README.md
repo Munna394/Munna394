@@ -12,8 +12,10 @@
   <li>CSS3</li>
   <li>Bootstrap</li>
   <li>Wordpress</li>
+  <li>Webflow Expert</li>
   <li>Wordpress Theme Customize</li>
-  <li>Elementor Basic</li>
+  <li>Elementor Expert</li>
+  <li>Figma to Wordpress & Webflow </li>
   <li>Photoshop</li>
   <li>PHP</li>
 </ul>
