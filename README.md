@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD. Maud Hasan Munna</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-- 👨‍💻 All of my projects are available at [munna.code-learnerbd.com](munna.code-learnerbd.com)
+(munna.code-learnerbd.com)
 
 - 💬 Ask me about **Web Developer**
 
